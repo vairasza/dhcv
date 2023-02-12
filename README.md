@@ -6,3 +6,6 @@
 
 TODO:
 - change output path to Gdrive
+
+## gdrive folder path
+"G:\\My Drive\\digital_humanities\\Ergebnisse",

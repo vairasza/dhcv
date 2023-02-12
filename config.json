@@ -1,50 +1,23 @@
-[
-  {
-    "inputPath": "./assets/Die_Siedler3/",
-    "outputPathImage": "./output/{cv_method}/Die_Siedler3/",
-    "outputPathCSV": "./output/{cv_method}/",
-    "name": "Die_Siedler3"
-  },
-  {
-    "inputPath": "./assets/Diablo2/",
-    "outputPathImage": "./output/{cv_method}/Diablo2/",
-    "outputPathCSV": "./output/{cv_method}/",
-    "name": "Diablo2"
-  },
-  {
-    "inputPath": "./assets/Elden_Ring/",
-    "outputPathImage": "./output/{cv_method}/Elden_Ring/",
-    "outputPathCSV": "./output/{cv_method}/",
-    "name": "Elden_Ring"
-  },
-  {
-    "inputPath": "./assets/Half_Life2/",
-    "outputPathImage": "./output/{cv_method}/Half_Life2/",
-    "outputPathCSV": "./output/{cv_method}/",
-    "name": "Half_Life2"
-  },
-  {
-    "inputPath": "./assets/Little_Nightmares/",
-    "outputPathImage": "./output/{cv_method}/Little_Nightmares/",
-    "outputPathCSV": "./output/{cv_method}/",
-    "name": "Little_Nightmares"
-  },
-  {
-    "inputPath": "./assets/NFSMW/",
-    "outputPathImage": "./output/{cv_method}/NFSMW/",
-    "outputPathCSV": "./output/{cv_method}/",
-    "name": "NFSMW"
-  },
-  {
-    "inputPath": "./assets/Starcraft2/",
-    "outputPathImage": "./output/{cv_method}/Starcraft2/",
-    "outputPathCSV": "./output/{cv_method}/",
-    "name": "Starcraft2"
-  },
-  {
-    "inputPath": "./assets/Super_Mario_World/",
-    "outputPathImage": "./output/{cv_method}/Super_Mario_World/",
-    "outputPathCSV": "./output/{cv_method}/",
-    "name": "Super_Mario_World"
-  }
-]
+{
+  "inputRoot": "C:\\Uni\\dhcv\\assets",
+  "outputRoot": "C:\\Uni\\dhcv\\output",
+  "methods": [
+    "Location",
+    "AverageColor",
+    "ObjectDetection",
+    "Emotion",
+    "AgeGender",
+    "Brightness",
+    "DominantColor"
+  ],
+  "games": [
+    "Die_Siedler3",
+    "Diablo2",
+    "Elden_Ring",
+    "Half_Life2",
+    "Little_Nightmares",
+    "NFSMW",
+    "Starcraft2",
+    "Super_Mario_World"
+  ]
+}
