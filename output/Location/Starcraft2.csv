@@ -1,8 +1,8 @@
 ,Name,io_score,io,prob_cat_1,cat_1,prob_cat_2,cat_2,prob_cat_3,cat_3,prob_cat_4,cat_4,prob_cat_5,cat_5
-0,starcraft2_frame_0.jpg,0.5,outdoor,0.21562158,raceway,0.112052515,arena/performance,0.09541059,highway,0.055190038,gas_station,0.02691716,home_theater
-1,starcraft2_frame_60.jpg,0.5,outdoor,0.20978923,raceway,0.10164995,highway,0.09439453,arena/performance,0.05336008,gas_station,0.032856576,home_theater
-2,starcraft2_frame_120.jpg,0.5,outdoor,0.21322477,raceway,0.12380912,highway,0.10608605,arena/performance,0.050405074,gas_station,0.02934533,home_theater
-3,starcraft2_frame_180.jpg,0.5,outdoor,0.19525456,raceway,0.13374613,highway,0.10460807,arena/performance,0.05490249,gas_station,0.029486932,home_theater
-4,starcraft2_frame_240.jpg,0.6,outdoor,0.2805941,arena/performance,0.10428165,aquarium,0.070082396,sky,0.034396406,volcano,0.03098679,underwater/ocean_deep
-5,Thomas_Brodie-Sangster_by_Gage_Skidmore.jpg,0.2,indoor,0.70501673,beauty_salon,0.072693415,chemistry_lab,0.0604826,biology_laboratory,0.023116851,conference_center,0.015802147,veterinarians_office
-6,Trump.jpeg,0.0,indoor,0.72161067,legislative_chamber,0.12383862,nursing_home,0.048825383,conference_center,0.014247153,elevator/door,0.007997716,archive
+0,starcraft2_frame_0.jpg,0.5,outdoor,0.21562155,raceway,0.1120525,arena/performance,0.09541058,highway,0.055190083,gas_station,0.026917156,home_theater
+1,starcraft2_frame_60.jpg,0.5,outdoor,0.20978922,raceway,0.10165003,highway,0.09439452,arena/performance,0.053360075,gas_station,0.032856572,home_theater
+2,starcraft2_frame_120.jpg,0.5,outdoor,0.21322475,raceway,0.123809114,highway,0.10608615,arena/performance,0.05040512,gas_station,0.029345328,home_theater
+3,starcraft2_frame_180.jpg,0.5,outdoor,0.1952548,raceway,0.13374616,highway,0.10460829,arena/performance,0.0549024,gas_station,0.029486883,home_theater
+4,starcraft2_frame_240.jpg,0.6,outdoor,0.28059402,arena/performance,0.104281515,aquarium,0.070082374,sky,0.034396395,volcano,0.03098678,underwater/ocean_deep
+5,Thomas_Brodie-Sangster_by_Gage_Skidmore.jpg,0.2,indoor,0.7050167,beauty_salon,0.07269368,chemistry_lab,0.060482476,biology_laboratory,0.02311685,conference_center,0.015802162,veterinarians_office
+6,Trump.jpeg,0.0,indoor,0.72161067,legislative_chamber,0.12383862,nursing_home,0.048825383,conference_center,0.014247126,elevator/door,0.0079977,archive

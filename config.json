@@ -1,6 +1,6 @@
 {
-  "inputRoot": "C:\\Uni\\dhcv\\assets",
-  "outputRoot": "C:\\Uni\\dhcv\\output",
+  "inputRoot": "C:\\Users\\User\\Documents\\GitHub\\dhcv\\assets",
+  "outputRoot": "C:\\Users\\User\\Documents\\GitHub\\dhcv\\output",
   "methods": [
     "Location",
     "AverageColor",

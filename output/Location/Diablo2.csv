@@ -1,3 +1,3 @@
 ,Name,io_score,io,prob_cat_1,cat_1,prob_cat_2,cat_2,prob_cat_3,cat_3,prob_cat_4,cat_4,prob_cat_5,cat_5
-0,Thomas_Brodie-Sangster_by_Gage_Skidmore.jpg,0.2,indoor,0.70501673,beauty_salon,0.072693415,chemistry_lab,0.0604826,biology_laboratory,0.023116851,conference_center,0.015802147,veterinarians_office
-1,Trump.jpeg,0.0,indoor,0.72161067,legislative_chamber,0.12383862,nursing_home,0.048825383,conference_center,0.014247153,elevator/door,0.007997716,archive
+0,Thomas_Brodie-Sangster_by_Gage_Skidmore.jpg,0.2,indoor,0.7050167,beauty_salon,0.07269368,chemistry_lab,0.060482476,biology_laboratory,0.02311685,conference_center,0.015802162,veterinarians_office
+1,Trump.jpeg,0.0,indoor,0.72161067,legislative_chamber,0.12383862,nursing_home,0.048825383,conference_center,0.014247126,elevator/door,0.0079977,archive
