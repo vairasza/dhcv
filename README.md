@@ -6,6 +6,8 @@
 
 TODO:
 - change output path to Gdrive
+- remove google.atuh and tensroboard
+- only execute games/methods that are configured in config.json
 
 ## gdrive folder path
 "G:\\My Drive\\digital_humanities\\Ergebnisse",
