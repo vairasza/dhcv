@@ -1,23 +1,12 @@
 {
-  "inputRoot": "C:\\Users\\User\\Documents\\GitHub\\dhcv\\assets",
-  "outputRoot": "C:\\Users\\User\\Documents\\GitHub\\dhcv\\output",
+  "inputRoot": "G:\\My Drive\\digital_humanities\\Walkthroughs",
+  "outputRoot": "G:\\My Drive\\digital_humanities\\Ergebnisse",
   "methods": [
     "Location",
-    "AverageColor",
-    "ObjectDetection",
-    "Emotion",
-    "AgeGender",
-    "Brightness",
-    "DominantColor"
+    "AverageColor"
   ],
   "games": [
-    "Die_Siedler3",
-    "Diablo2",
-    "Elden_Ring",
-    "Half_Life2",
     "Little_Nightmares",
-    "NFSMW",
-    "Starcraft2",
-    "Super_Mario_World"
+    "Die_Siedler3"
   ]
 }

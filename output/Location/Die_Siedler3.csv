@@ -1,8 +1,0 @@
-,Name,io_score,io,prob_cat_1,cat_1,prob_cat_2,cat_2,prob_cat_3,cat_3,prob_cat_4,cat_4,prob_cat_5,cat_5
-0,siedler_frame_0.jpg,0.1,indoor,0.13103141,elevator/door,0.12045902,museum/indoor,0.051960837,science_museum,0.03189327,clean_room,0.022496006,playroom
-1,siedler_frame_30.jpg,0.2,indoor,0.09688996,amusement_arcade,0.030483738,water_park,0.027666274,recreation_room,0.027316064,home_theater,0.024164967,ball_pit
-2,siedler_frame_60.jpg,0.6,outdoor,0.035684586,amusement_arcade,0.025850926,gas_station,0.025004374,japanese_garden,0.024813857,underwater/ocean_deep,0.022955349,pet_shop
-3,siedler_frame_90.jpg,0.3,indoor,0.28292572,amusement_arcade,0.0974467,gas_station,0.07897821,server_room,0.046373844,recreation_room,0.035194978,hardware_store
-4,siedler_frame_120.jpg,0.2,indoor,0.26911572,amusement_arcade,0.10593419,gas_station,0.096104436,server_room,0.043288257,recreation_room,0.03548151,hardware_store
-5,Thomas_Brodie-Sangster_by_Gage_Skidmore.jpg,0.2,indoor,0.7050167,beauty_salon,0.07269368,chemistry_lab,0.060482476,biology_laboratory,0.02311685,conference_center,0.015802162,veterinarians_office
-6,Trump.jpeg,0.0,indoor,0.72161067,legislative_chamber,0.12383862,nursing_home,0.048825383,conference_center,0.014247126,elevator/door,0.0079977,archive
