@@ -1,12 +1,10 @@
 {
-  "inputRoot": "G:\\My Drive\\digital_humanities\\Walkthroughs",
-  "outputRoot": "G:\\My Drive\\digital_humanities\\Ergebnisse",
+  "inputRoot": "G:\\.shortcut-targets-by-id\\1m8mQSGFIpYWyBBuka4kAy332A9fQSMBX\\digital_humanities",
+  "outputRoot": "G:\\.shortcut-targets-by-id\\1m8mQSGFIpYWyBBuka4kAy332A9fQSMBX\\digital_humanities",
   "methods": [
-    "Location",
-    "AverageColor"
+    "DominantColor"
   ],
   "games": [
-    "Little_Nightmares",
-    "Die_Siedler3"
+    "Little_Nightmares"
   ]
 }
