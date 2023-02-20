@@ -2,9 +2,17 @@
   "inputRoot": "G:\\My Drive\\digital_humanities\\Walkthroughs",
   "outputRoot": "G:\\My Drive\\digital_humanities\\Ergebnisse",
   "methods": [
-    "ObjectDetection"
+    "Location",
+    "Emotion",
+    "AgeGender"
   ],
   "games": [
-    "Little_Nightmares"
+    "Die_Siedler3",
+    "Diablo2",
+    "Elden_Ring",
+    "Half_Life2",
+    "NFSMW",
+    "Starcraft2",
+    "Super_Mario_World"
   ]
 }
