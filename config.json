@@ -2,11 +2,9 @@
   "inputRoot": "G:\\My Drive\\digital_humanities\\Walkthroughs",
   "outputRoot": "G:\\My Drive\\digital_humanities\\Ergebnisse",
   "methods": [
-    "Location",
-    "AverageColor"
+    "ObjectDetection"
   ],
   "games": [
-    "Little_Nightmares",
-    "Die_Siedler3"
+    "Little_Nightmares"
   ]
 }

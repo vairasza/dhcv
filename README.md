@@ -23,7 +23,7 @@ G:\\My Drive\\digital_humanities\\Walkthroughs
 ## Running
 - configurate in `config.json` which methods and games you want to run
 - available methods and games listed here
-- 
+
 ### methods
   - Location
   - AverageColor
@@ -52,3 +52,6 @@ G:\\My Drive\\digital_humanities\\Walkthroughs
 - code blocks that have `#required` in the first line, must be loaded before `#run` block
 - code blocks that have `#optional` in the first line, must be loaded if there methods are configured in `config.json`
 - Object Detection requires a GPU
+
+## Quellenangaben
+- Object Detection: https://colab.research.google.com/drive/1AkDT-N5eQAvleTOCVJVBubis3waHPmpo?usp=sharing
