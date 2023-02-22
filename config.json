@@ -1,18 +1,10 @@
 {
-  "inputRoot": "G:\\My Drive\\digital_humanities\\Walkthroughs",
-  "outputRoot": "G:\\My Drive\\digital_humanities\\Ergebnisse",
+  "inputRoot": "G:\\.shortcut-targets-by-id\\1m8mQSGFIpYWyBBuka4kAy332A9fQSMBX\\digital_humanities\\Walkthroughs",
+  "outputRoot": "G:\\.shortcut-targets-by-id\\1m8mQSGFIpYWyBBuka4kAy332A9fQSMBX\\digital_humanities\\Ergebnisse",
   "methods": [
-    "Location",
-    "Emotion",
-    "AgeGender"
+    "Brightness"
   ],
   "games": [
-    "Die_Siedler3",
-    "Diablo2",
-    "Elden_Ring",
-    "Half_Life2",
-    "NFSMW",
-    "Starcraft2",
-    "Super_Mario_World"
+    "Die_Siedler3"
   ]
 }
