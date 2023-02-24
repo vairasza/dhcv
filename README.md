@@ -43,6 +43,7 @@ G:\\My Drive\\digital_humanities\\Walkthroughs
   - Starcraft2
   - Super_Mario_World
 
+## Running (2)
 - set `inputRoot` to folder where your raw images are located. can be mounted google drive.
 - `inputRoot` requires a folder for each game.
 - set `outputRoot` to folder where your generated csv, graphs and images are saved. can be mounted google drive.
